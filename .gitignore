@@ -18,3 +18,4 @@ __pycache__/
 *.pyc
 
 tmp_data.txt
+.env
